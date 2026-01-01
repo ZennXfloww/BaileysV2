@@ -1,13 +1,13 @@
-# Baileys v7 WhatsApp Bot
+# Baileys V2
 
-Bot WhatsApp berbasis **Baileys v7 (Multi Device)** yang dirancang dengan struktur logis, stabil, dan mudah dikembangkan.  
+Bot WhatsApp berbasis **Baileys V2 (Multi Device)** yang dirancang dengan struktur logis, stabil, dan mudah dikembangkan.  
 Project ini cocok untuk **pembelajaran**, **private bot**, maupun **pengembangan lanjutan**.
 
 ---
 
-## 📌 Tentang Baileys v7
+## 📌 Tentang Baileys V2
 
-**Baileys v7** adalah versi terbaru dari library Baileys yang:
+**Baileys V2** adalah versi terbaru dari library Baileys yang:
 - Menggunakan **WhatsApp Web Multi Device**
 - Lebih stabil dalam pengelolaan message
 - Mendukung **Native Flow Message**
@@ -19,7 +19,7 @@ Project ini dibuat dengan pendekatan **clean code**, **error-aware**, dan **main
 
 ## 🎯 Tujuan Project
 
-- Menyediakan template bot Baileys v7 yang **siap pakai**
+- Menyediakan template bot Baileys V2 yang **siap pakai**
 - Memudahkan developer memahami **alur message WhatsApp**
 - Menghindari error umum seperti:
   - `mtype undefined`
@@ -41,5 +41,3 @@ Project ini dibuat dengan pendekatan **clean code**, **error-aware**, dan **main
 - Struktur helper terpisah
 
 ---
-
-## 🧠 Alur Kerja Bot (Logic Flow)
